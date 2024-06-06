@@ -1,5 +1,8 @@
 [[main]]
-none = "none"
+name = "CV"
+pageRef = "cv"
+weight = 20
+
 
 [[footer]]
 none = "none"
