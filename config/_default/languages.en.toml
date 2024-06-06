@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "gabe's archives"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "a place to archive my personal and professional projects"
+
+[author]
+name = "Gabriel Godfrey"
+headline = "Game Developer"
+bio = "here on gabe's archives, i will post my personal projects, as well as a repertoire of games i have worked on as a professional in the industry."
+image = "author-picture.jpg"
+links = [ { github = "https://github.com/Godflay" }, { instagram = "https://www.instagram.com/stinkiyuki/" }, { linkedin = "https://www.linkedin.com/in/gabriel-godfrey-5530b7218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" }, { steam = "https://steamcommunity.com/id/Godflay/" }, { x-twitter = "https://x.com/_skiddi3" } ]
