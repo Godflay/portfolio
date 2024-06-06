@@ -1,13 +1,12 @@
-[[Main]]
+[main]
 name = "Blog"
 pageRef = "blog"
-weight = 20
-
+weight = 999
 
 [[main]]
 name = "CV"
 pageRef = "cv"
-weight = 20
+weight = 999
 
 
 [[footer]]
