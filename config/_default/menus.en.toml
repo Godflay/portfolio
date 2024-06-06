@@ -1,13 +1,7 @@
-[main]
-name = "Blog"
-pageRef = "blog"
-weight = 999
-
 [[main]]
 name = "CV"
 pageRef = "cv"
-weight = 999
-
+weight = 20
 
 [[footer]]
 none = "none"
