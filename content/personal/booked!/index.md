@@ -8,6 +8,6 @@ tags: ["Godot", "UI", "UI-prog", "Game Jam", "ludumdare55"]
 keywords: ["Game Jam"]
 type: "personal"
 ---
-social/party game about booking meetings made during ludum dare 55 game jam hosted by Behaviour 
+social/party game about booking meetings made during ludum dare 55 game jam hosted by Behaviour. can be downloaded here: https://ldjam.com/events/ludum-dare/55/booked
 # Experience June 2022 - Present Day
 explain stuff here lol
