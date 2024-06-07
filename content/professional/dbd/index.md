@@ -4,7 +4,7 @@ date: 2024-06-06
 draft: false
 description: Behaviour Interactive
 summary: "Build and Release Tech on Dead by Daylight"
-tags: ["Build Pipeline", "Automation", "Backend", "Python", "Jenkins(CI/CD)", "Unreal", "DLC creation"]
+tags: ["Automation", "Backend", "Build Pipeline", "DLC creation", "Jenkins(CI/CD)", "Python", "Unreal"]
 keywords: ["Behaviour"]
 type: "professional"
 ---

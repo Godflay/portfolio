@@ -4,7 +4,7 @@ date: 2024-06-06
 draft: false
 description: PTW
 summary: "IT admin"
-tags: ["IT", "OS", "Account management", "Troubleshooting", "Security", "Networking"]
+tags: ["Account management", "IT", "Networking", "OS", "Security", "Troubleshooting"]
 keywords: ["PTW"]
 type: "professional"
 ---
