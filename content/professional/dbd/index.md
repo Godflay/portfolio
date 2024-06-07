@@ -4,7 +4,7 @@ date: 2024-06-06
 draft: false
 description: Behaviour Interactive
 summary: "Build and Release Tech on Dead by Daylight"
-tags: ["Build Pipeline", "Automation", "Python", "Jenkins(CI/CD)", "DLC creation"]
+tags: ["Build Pipeline", "Automation", "Backend", "Python", "Jenkins(CI/CD)", "Unreal", "DLC creation"]
 keywords: ["Behaviour"]
 type: "professional"
 ---
@@ -17,4 +17,5 @@ i've learned a lot in the past 2 years, i've touched many new subjects that i am
 -deploy dedicated servers for patches/updates (AWS Gamelift)<br/>
 -stream management (Perforce)<br/>
 -DLC/Achievement setup<br/>
+-edit/create datatables in Unreal Engine for costmetics and/or backend related logic<br/>
 -create/update python scripts to our improve processes<br/>
