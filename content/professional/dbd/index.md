@@ -8,6 +8,13 @@ tags: ["Build Pipeline", "Automation", "Python", "Jenkins(CI/CD)", "DLC creation
 keywords: ["Behaviour"]
 type: "professional"
 ---
-working on DbD was certainly an experience. i have learned so much and working on this game after being a player myself since it came out, was a dream come true.
+one of the reasons why i joined Behaviour was because i have been playing Dead by Daylight ever since it came out in 2016. So obviously, working on DbD was like a dream come true. i have learned so much while working on this game. 
 # Experience June 2022 - Present Day
-explain stuff here lol
+i joined the awesome BHVR team in June 2022, as a Build and Release tech. 
+## Responsibilities
+i've learned a lot in the past 2 years, i've touched many new subjects that i am now quite well-versed in. Main responsibilities includes;
+-maintain and improve the automated build pipeline
+-deploy dedicated servers for patches/updates (AWS Gamelift)
+-stream management (Perforce) 
+-DLC/Achievement setup
+-create/update python scripts to our improve processes  

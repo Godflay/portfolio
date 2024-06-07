@@ -8,7 +8,7 @@ tags: ["IT", "OS", "Account management", "Troubleshooting", "Security", "Network
 keywords: ["PTW"]
 type: "professional"
 ---
-I will always be grateful for the opportunity PTW gave me. I started as a game tester and they gave me a chance in IT. This allowed me to learn a grow not only in IT, but as a person too.
+I will always be grateful for the opportunity PTW gave me. I started as a game tester and they gave me a chance in IT. This allowed me to learn and grow not only in IT, but as a person too.
 # Experience Nov 2020 - May 2021
 Started off as an LQA game tester. In this role I learned the very basics of game development and my passion for video games only grew stronger.
 # Experience May 2021 - May 2022
