@@ -18,8 +18,8 @@ mainSections = ["projects"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "yuki-ellie.jpg" # used as default for background images 
+defaultFeaturedImage = "lazyday.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
