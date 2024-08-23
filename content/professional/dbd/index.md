@@ -13,7 +13,7 @@ one of the reasons why i joined Behaviour was because i have been playing Dead b
 i joined the awesome BHVR team in June 2022, as a Build and Release tech. 
 ## Responsibilities
 i've learned a lot in the past 2 years, i've touched many new subjects that i am now quite well-versed in. Main responsibilities includes;<br/>
--maintain and improve the automated build pipeline<br/>
+-maintain and improve the CICD build pipeline (Jenkins)<br/>
 -deploy dedicated servers for patches/updates (AWS Gamelift)<br/>
 -stream management (Perforce)<br/>
 -DLC/Achievement setup<br/>

@@ -1,5 +1,5 @@
 ---
-title: "project witch"
+title: "Project Witch"
 date: 2024-07-01
 draft: false
 description: Personal Project / Godot
