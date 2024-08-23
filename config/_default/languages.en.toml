@@ -5,6 +5,7 @@ title = "gabe's archives"
 
 [params]
 displayName = "EN"
+logo = "website-logo.jpg"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"

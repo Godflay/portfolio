@@ -28,9 +28,6 @@ defaultFeaturedImage = "lazyday.jpg" # used as default for featured images in al
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
-[Params]
-  logo = "website-logo.jpg" # used as logo displayed next to website name
-
 [footer]
   showMenu = true
   showCopyright = true
