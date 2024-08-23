@@ -5,7 +5,7 @@ description: ""
 
 {{<lead>}}
 {{<typeit>}}
-4 things are certain in life; death, taxes, my love for my cats and coding
+4 choses sont certaines dans la vie; la mort, les impôts, mon amour pour mes chats et le programmage
 {{</typeit>}}
 {{</lead>}}
 
