@@ -3,7 +3,11 @@ title: "homepage"
 description: ""
 ---
 
-{{<lead>}}hello! i will use gabe's archives to share personal projects that i've been working on as well as my professional expertise as a game developer{{</lead>}}
+{{<lead>}}
+{{<typeit>}}
+4 things are certain in life; death, taxes, my love for my cats and coding
+{{</typeit>}}
+{{</lead>}}
 
 ## personal projects
 some of the things i'm passionate about and that i worked on in my free time
