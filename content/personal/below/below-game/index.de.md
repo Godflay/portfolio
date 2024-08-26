@@ -18,5 +18,5 @@ And [here](/personal/below/below-game/below-mac-1.0.0.zip) for mac<br/>
 -CREDITS<br/>
 This game uses some free assets and sounds, respective owners are credited in-game.
 ### patch notes
-tab to keep track of the game's progressg
+tab to keep track of the game's progress
 {{<list limit=10 title=" " where="Type" value="notes">}}
