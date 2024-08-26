@@ -16,3 +16,7 @@ some of the things i'm passionate about and that i worked on in my free time
 ## professional work
 quick overview of my professional experience in the game industry
 {{<list limit=10 title=" " where="Type" value="professional">}}
+
+## contact me!
+a link to my resume and contact info
+{{<list limit=10 title=" " where="Type" value="cv">}}
