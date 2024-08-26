@@ -1,5 +1,5 @@
 ---
-title: "below"
+title: "Below"
 date: 2024-08-25
 draft: false
 description: Personal Project / Godot
