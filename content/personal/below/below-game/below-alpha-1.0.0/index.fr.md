@@ -6,7 +6,7 @@ description: Personal Project / Godot
 summary: "Horror game made in Godot"
 tags: ["Godot", "3D", "Horror", "Game"]
 keywords: ["Game"]
-type: "personal"
+type: "notes"
 ---
 # Dev notes
 I thought I would make a page to have some sort of "patch notes" to show progress of the game.
