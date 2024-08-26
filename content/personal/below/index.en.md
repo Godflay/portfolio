@@ -3,8 +3,8 @@ title: "below"
 date: 2024-08-25
 draft: false
 description: Personal Project / Godot
-summary: "Godot Game"
-tags: ["Godot", "2D", "Horror", "Game"]
+summary: "Horror game made in Godot"
+tags: ["Godot", "3D", "Horror", "Game"]
 keywords: ["Game"]
 type: "personal"
 ---
