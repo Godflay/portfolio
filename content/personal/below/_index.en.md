@@ -2,11 +2,6 @@
 title: "below"
 description: ""
 ---
-
-## personal projects
-some of the things i'm passionate about and that i worked on in my free time
+## patch notes
+tab to keep track of the game's progress
 {{<list limit=10 title=" " where="Type" value="personal">}}
-
-## professional work
-quick overview of my professional experience in the game industry
-{{<list limit=10 title=" " where="Type" value="professional">}}
