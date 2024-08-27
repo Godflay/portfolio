@@ -3,7 +3,7 @@ title: "Below - dev notes 01"
 date: 2024-08-27
 draft: false
 description: Personal Project / Godot
-summary: "Horror game made in Godot"
+summary: "Dev notes"
 tags: ["Godot", "3D", "Horror", "Game"]
 keywords: ["Game"]
 type: "notes"
