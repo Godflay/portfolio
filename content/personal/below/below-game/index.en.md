@@ -19,5 +19,5 @@ The latest Mac version can be downloaded [here](/personal/below/below-game/below
 ## Credits
 This game uses some free assets and sounds, respective owners are credited in-game.
 ### Dev Notes
-tab to keep track of the game's progress
+Section to keep track of the game's progress
 {{<list limit=10 title=" " where="Type" value="notes">}}
