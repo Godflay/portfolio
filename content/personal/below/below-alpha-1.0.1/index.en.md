@@ -19,13 +19,14 @@ Some exciting new changes coming along! I've been working on not very important 
 -Slightly reduced the "grain" of the shader, some players have reported it was somewhat difficult to see in-game.<br/>
 ## Known issues
 -Some texts might be misaligned, mistranslated or not translated at all. The feature is new and will be improved. Localization is hard m'kay!<br/>
--Settings menu is somewhat working! However, only the bug report feature and the language settings are setup so far.<br/>
+-Settings menu from the Main menu is working! However, only the bug report feature and the language settings are setup so far.<br/>
+-Settings from the Pause menu is currently broken, and you will have to restart the game.<br/>
 -The ops room is empty and missing its ceiling, will rework that room.<br/>
 -Paper pages for the lore are just random textures to test the feature for now, see "Upcoming features"<br/>
 -Ticket gates can be walked through, they don't have a collision box yet.</br>
 ## Upcoming features
 -Settings menu will be fully implemented very soon.<br/>
--Pause menu is somewhat working, however, some buttons, like options aren't fully implemented yet.<br/>
+-Pause menu will be reworked, only resume and back are working as of now.<br/>
 -Keep working on the story.<br/>
 -Will add text to the paper pages.</br>
 -Add more events.<br/>
