@@ -4,7 +4,7 @@ date: 2024-08-27
 draft: false
 description: Personal Project / Godot
 summary: "Dev notes"
-tags: ["Godot", "3D", "Horror", "Game"]
+tags: ["Godot", "3D", "Dev", "Horror", "Game"]
 keywords: ["Game"]
 type: "notes"
 ---
