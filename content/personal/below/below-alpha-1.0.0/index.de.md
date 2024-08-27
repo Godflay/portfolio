@@ -15,6 +15,7 @@ I thought I would make a page to have some sort of "patch notes" to show progres
 -Options/Settings button not working in the Pause menu, see "Upcoming features"</br>
 -The ops room is empty and missing its ceiling, will rework that room.<br/>
 -Paper pages for the lore are just random textures to test the feature for now, see "Upcoming features"<br/>
+-Some of the text might be misaligned due to translation<br/>
 ## Upcoming features
 -Settings menu will be implemented very soon.<br/>
 -Pause menu is somewhat working, however, some buttons, like options aren't fully implemented yet.<br/>
