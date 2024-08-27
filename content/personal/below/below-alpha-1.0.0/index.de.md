@@ -24,3 +24,5 @@ I thought I would make a page to have some sort of "patch notes" to show progres
 -Add more events.<br/>
 -Will reduce the "grain" of the PSX/VHS shader, some testers have reported it was somewhat difficult seeing stuff.</br>
 -More to come! (I want to keep the scope rather small, it's easier to add stuff that way)</br>
+
+### -Godflay
