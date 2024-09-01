@@ -16,8 +16,8 @@ Below is a horror game that takes place in a metro station. You're on your way f
 ## Download
 The latest Windows version can be downloaded [here](/personal/below/below-game/below-windows-1.0.1.zip)<br/>
 The latest Mac version can be downloaded [here](/personal/below/below-game/below-mac-1.0.1.zip)<br/>
-## -Credits
+## Credits
 This game uses some free assets and sounds, respective owners are credited in-game.
-### patch notes
-tab to keep track of the game's progress
+### Dev Notes
+Section to keep track of the game's progress
 {{<list limit=10 title=" " where="Type" value="notes">}}
