@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8f69511ee35952dd32ed6156bd6abae0311f50b9f5475f4974643592c5f1e33
-size 445
+---
+                title: "blog.muffn.io"
+                tags: [Sito personale]
+                externalUrl: "https://blog.muffn.io/"
+                date: 9976-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

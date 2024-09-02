@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dae8af0b7fb031dd1bafb4bb95f9c870709a95310cc6fbfe0c8286e11699285
-size 498
+{{ $recentArticles := 5 }}
+{{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+
+<div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+  <section
+    class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+    {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in"
+    .Site.Params.mainSections)).Pages }}
+    {{ partial "article-link/card.html" . }}
+    {{ end }}
+  </section>
+</div>

@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9bef3e0039df6244f1b1826668d2f68bc909aea8ffd662284400d54aaaddc44
-size 504
+---
+title: "Documentation"
+description: "Learn how to use Blowfish and its features."
+
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
+---
+
+{{< lead >}}
+Simple, yet powerful. Learn how to use Blowfish and its features.
+{{< /lead >}}
+
+This section contains everything you need to know about Blowfish. If you're new, check out the [Installation]({{< ref "docs/installation" >}}) guide to begin or visit the [Samples]({{< ref "samples" >}}) section to see what Blowfish can do.
+
+---

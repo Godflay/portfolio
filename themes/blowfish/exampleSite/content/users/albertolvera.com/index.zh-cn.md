@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:657798a4dcf62e2a83cbea281f570c1a274fc0c382260a745536a1f54facdc86
-size 448
+---
+                title: "albertolvera.com"
+                tags: [个人网站]
+                externalUrl: "https://albertolvera.com"
+                date: 9990-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

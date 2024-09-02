@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1274ce908867823a454eb20b6e201307ed60311bea5121349bb5d0264feecca2
-size 227
+/**
+ * Remove all lines starting with `%%` from the text that don't contain a `%%{`
+ * @param text - The text to remove comments from
+ * @returns cleaned text
+ */
+export declare const cleanupComments: (text: string) => string;

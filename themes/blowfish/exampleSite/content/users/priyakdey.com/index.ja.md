@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e30b1ea8da46ab55fefe91436ddf1053d62c62a0c262aad568ad43d33e0213b
-size 445
+---
+                title: "priyakdey.com"
+                tags: [個人サイト]
+                externalUrl: "https://priyakdey.com"
+                date: 9982-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

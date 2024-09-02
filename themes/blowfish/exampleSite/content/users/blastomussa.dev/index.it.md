@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac5cc37e007ab3b11734e61aff146da961d26ae105c51423d4bb37c3bb07928f
-size 448
+---
+                title: "blastomussa.dev"
+                tags: [Sito personale]
+                externalUrl: "https://blastomussa.dev"
+                date: 9985-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

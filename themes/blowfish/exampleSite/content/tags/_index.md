@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cfa3377dbebfe6e9c447f8b06340d8dc01085e3ad2036e7368975442760cd988
-size 395
+---
+title: Tags
+---
+
+Blowfish has full support for Hugo taxonomies and will adapt to any taxonomy set up. Taxonomy listings like this one also support custom content to be displayed above the list of terms.
+
+This area could be used to add some extra descriptive text to each taxonomy. Check out the [advanced tag]({{< ref "advanced" >}}) below to see how to take this concept even further.
+
+---

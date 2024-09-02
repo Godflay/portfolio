@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a356ca2d0c7e84f063e9fe9ded7dddebc2b5de1c0fe35b3978293a52169b4c59
-size 194
+{{ $url := .Get "url"}}
+{{ with resources.GetRemote (printf $url) }}
+{{ .Content | markdownify }}
+{{ else }}
+{{ errorf "Mardown Importer Shortcode - Unable to get remote resource" . }}
+{{ end }}

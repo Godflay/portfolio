@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7407717ee8242a6e6165fe29c98f32381c22c680be8377aa10c0821a361f9616
-size 448
+---
+                title: "cuttontail.blog"
+                tags: [Sito personale]
+                externalUrl: "https://cuttontail.blog"
+                date: 9994-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

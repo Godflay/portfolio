@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79cf548e799ac519c796a9457d311f9a58ad1e829b62ca4b820ed7909ada84ac
-size 56
+{
+  "projects": {
+    "default": "blowfish-21fff"
+  }
+}

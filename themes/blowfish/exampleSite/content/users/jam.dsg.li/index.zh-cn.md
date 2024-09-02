@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1460f07ea23e5141e3ba957fc600e70906c8ee291d0481361baeed61676ab3f6
-size 436
+---
+                title: "jam.dsg.li"
+                tags: [组织站点]
+                externalUrl: "https://jam.dsg.li"
+                date: 9983-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53a7cc3c4c250d98f70d70d54fbe140b3a83524f98becbf00b760d12d6f65728
-size 439
+---
+                title: "omarohn.de"
+                tags: [個人サイト]
+                externalUrl: "https://omarohn.de"
+                date: 9987-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

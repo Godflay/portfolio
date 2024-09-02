@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f89425e1a9f00a914e04414605f3a748af5f292c9ba9328a901e2b9508db3a4
-size 579
+name: Test Build
+
+on: [push]
+
+jobs:
+  build:
+    name: Build Example Site
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: "latest"
+
+      - name: Build
+        working-directory: ./exampleSite
+        run: hugo --minify --themesDir ../.. --baseURL https://nunocoracao.github.io/blowfish/

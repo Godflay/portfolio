@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d83561eacde5bee420f0599423c3052c795da6c0f89dcceb78c6048ccfd1c6d4
-size 1239
+---
+title: "レシピテンプレート"
+date: 1987-12-22
+draft: false
+description: "Blowfish テーマのレシピを作成するためのテンプレート"
+tags: ["template"]
+---
+
+Blowfish コミュニティーのコントリビュートに興味を持っていただきありがとうございます。
+
+## 開始方法
+こちらは Blowfish のガイドセクションに新しい記事を作成する方法を説明するテンプレート記事です。
+
+## Blowfish をクローンする
+こちらのコマンドでこのレポジトリをクローンします:
+
+```bash
+git clone https://github.com/nunocoracao/blowfish.git
+```
+
+## ファイルを準備する
+この `.md` ファイルが入っているフォルダ全体をコピーし、貼り付けます。
+
+フォルダ名に利用する名前は `YYYYMM-title` のようにスペースが利用できない規約となっています。
+
+## ガイドを書く
+あなたのガイドを書きます ('v')
+
+`img` フォルダーを利用して画像を配置でき、このようになります:
+
+![]()
+
+![例](img/example.jpg "画像のキャプション")
+
+## PR を開く
+PR を開くことやコントリビューションにあらかじめ感謝の言葉を述べます。

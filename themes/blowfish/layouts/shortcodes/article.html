@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7a89a821ebff9e7c5a934c99172f12fca290b3e009327393944ce8fb67a9a44
-size 338
+{{ $parent := .Page.RelPermalink }}
+<section class="space-y-10 w-full">
+    {{ $RelPermalink := .Get "link" }}
+    {{ range ( where .Site.RegularPages "RelPermalink" $RelPermalink | first 1 ) }}
+        {{ if not (eq .RelPermalink $parent) }}
+            {{ partial "article-link/simple.html" . }}
+        {{ end }}
+    {{end}}
+</section>

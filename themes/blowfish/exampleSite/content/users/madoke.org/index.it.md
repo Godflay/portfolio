@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4cc180e042e587497e3a3b98e8e4d38c4bc07c037cdbb898223008a27aeeeab2
-size 439
+---
+                title: "madoke.org"
+                tags: [Sito personale]
+                externalUrl: "https://madoke.org/"
+                date: 9998-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

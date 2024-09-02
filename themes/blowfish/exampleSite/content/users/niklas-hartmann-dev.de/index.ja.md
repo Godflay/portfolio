@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8d7814ffabc63f041b4542c3b7958fb12a6315614930b57daf22a9c55b80a7b
-size 464
+---
+                title: "niklas-hartmann-dev.de"
+                tags: [個人サイト]
+                externalUrl: "https://niklas-hartmann-dev.de/"
+                date: 9977-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

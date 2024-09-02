@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e610634fc424432212d3633ff74866e940707a55ac6318ae7b4363912288d96
-size 267
+import { S as t, o as n, q as o } from "./config-e567ef17.js";
+function a(e) {
+  return typeof e == "string" ? new t([document.querySelectorAll(e)], [document.documentElement]) : new t([o(e)], n);
+}
+export {
+  a as s
+};
+//# sourceMappingURL=selectAll-8155f162.js.map

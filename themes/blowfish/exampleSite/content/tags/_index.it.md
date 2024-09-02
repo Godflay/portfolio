@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a45a9a882a4fdf9c460b735c7b56ce9c7796c57386cc4cf53c8f80aaffd17ad
-size 483
+---
+title: Tag
+
+---
+Blowfish ha il pieno supporto per le tassonomie Hugo e si adatterà a qualsiasi impostazione tassonomica. Gli elenchi di tassonomia come questo supportano anche il contenuto personalizzato da visualizzare sopra l'elenco dei termini.
+
+Quest'area può essere utilizzata per aggiungere testo descrittivo aggiuntivo a ciascuna tassonomia. Dai un'occhiata al [tag avanzato]({{< ref "advanced" >}}) di seguito per vedere come portare questo concetto ancora oltre.
+
+---

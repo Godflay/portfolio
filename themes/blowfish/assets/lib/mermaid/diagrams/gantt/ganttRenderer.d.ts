@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7e7260025ea479a33d08efe74078be6e1532cd2041ec5e8ef1f019f83c52933
-size 210
+export function setConf(): void;
+export function draw(text: any, id: any, version: any, diagObj: any): void;
+declare namespace _default {
+    export { setConf };
+    export { draw };
+}
+export default _default;

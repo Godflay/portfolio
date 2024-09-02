@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:803b32210bcf86acbfe1106bba205e84a19af97f933cac8dd7e2274475bd749d
-size 440
+---
+                title: "pacochan.net"
+                tags: [个人网站]
+                externalUrl: "https://pacochan.net"
+                date: 9956-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

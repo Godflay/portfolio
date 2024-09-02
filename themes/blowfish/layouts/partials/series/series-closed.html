@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d7a50577d9ceb8bbed89345574b26bf6900e92ab9f162b5fddbdfd74f0101a6
-size 205
+{{ if .Params.series }}
+<details style="margin-left:0px" class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5">
+    {{ partial "series/series_base.html" . }}
+</details>
+{{end}}

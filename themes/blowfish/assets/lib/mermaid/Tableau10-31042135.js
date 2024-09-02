@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a4e8fd78e79a311d0e298febe190a1c696335433e08c47b17eae4593193d97c
-size 323
+function colors(specifier) {
+  var n = specifier.length / 6 | 0, colors2 = new Array(n), i = 0;
+  while (i < n)
+    colors2[i] = "#" + specifier.slice(i * 6, ++i * 6);
+  return colors2;
+}
+const d3schemeTableau10 = colors("4e79a7f28e2ce1575976b7b259a14fedc949af7aa1ff9da79c755fbab0ab");
+export {
+  d3schemeTableau10 as d
+};

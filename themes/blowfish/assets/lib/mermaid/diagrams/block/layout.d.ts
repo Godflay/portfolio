@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1970f48f1aba569f68f42b02241f23079684b5306212da0d21042bd6f327245b
-size 345
+import type { BlockDB } from './blockDB.js';
+interface BlockPosition {
+    px: number;
+    py: number;
+}
+export declare function calculateBlockPosition(columns: number, position: number): BlockPosition;
+export declare function layout(db: BlockDB): {
+    x: number;
+    y: number;
+    width: number;
+    height: number;
+} | undefined;
+export {};

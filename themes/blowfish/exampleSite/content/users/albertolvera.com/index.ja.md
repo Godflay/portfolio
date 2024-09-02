@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d7eda19a0cdfbfb5d36002c0c790f2a6999393b33dbe7331c0acb08ac76a147
-size 451
+---
+                title: "albertolvera.com"
+                tags: [個人サイト]
+                externalUrl: "https://albertolvera.com"
+                date: 9990-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

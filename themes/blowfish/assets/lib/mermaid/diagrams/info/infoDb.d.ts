@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e956b3dd00ca29a8182058568d771408422ac410c53026a064a6340fe1a0203c
-size 243
+import type { InfoFields, InfoDB } from './infoTypes.js';
+export declare const DEFAULT_INFO_DB: InfoFields;
+export declare const setInfo: (toggle: boolean) => void;
+export declare const getInfo: () => boolean;
+export declare const db: InfoDB;

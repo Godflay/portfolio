@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:daf04eb6f6f59158cc5d4e7152ea50841aab2855968cb39dffee90954e3a65e2
-size 643
+declare namespace _default {
+    export { ERMarkers };
+    export { insertMarkers };
+}
+export default _default;
+declare namespace ERMarkers {
+    let ONLY_ONE_START: string;
+    let ONLY_ONE_END: string;
+    let ZERO_OR_ONE_START: string;
+    let ZERO_OR_ONE_END: string;
+    let ONE_OR_MORE_START: string;
+    let ONE_OR_MORE_END: string;
+    let ZERO_OR_MORE_START: string;
+    let ZERO_OR_MORE_END: string;
+    let MD_PARENT_END: string;
+    let MD_PARENT_START: string;
+}
+/**
+ * Put the markers into the svg DOM for later use with edge paths
+ *
+ * @param elem
+ * @param conf
+ */
+declare function insertMarkers(elem: any, conf: any): void;

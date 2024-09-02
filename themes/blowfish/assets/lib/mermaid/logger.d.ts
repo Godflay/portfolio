@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:774aa0f86f459d761eaa691eed9cc866a422f4adab7ad0916f00887f034c038b
-size 404
+export type LogLevel = 'trace' | 'debug' | 'info' | 'warn' | 'error' | 'fatal';
+export declare const LEVELS: Record<LogLevel, number>;
+export declare const log: Record<keyof typeof LEVELS, typeof console.log>;
+/**
+ * Sets a log level
+ *
+ * @param level - The level to set the logging to. Default is `"fatal"`
+ */
+export declare const setLogLevel: (level?: keyof typeof LEVELS | number | string) => void;

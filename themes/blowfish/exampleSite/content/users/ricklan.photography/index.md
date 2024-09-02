@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6745ca5b2a8b8aaa46bec076d096ed17995085aa8ea773ec3ae38dfe10e18d0a
-size 454
+---
+                title: "ricklan.photography"
+                tags: [Personal site]
+                externalUrl: "https://ricklan.photography"
+                date: 9945-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

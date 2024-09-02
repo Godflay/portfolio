@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c5c2de5b0809b8be0e7657a94af46d2d77ea1a57d1bc97c1e090f0699878d5b
-size 1075
+<li class="mt-1">
+    <a class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        {{ if .Pre }}
+        <span {{ if and .Pre .Name}} class="mr-1" {{ end }}>
+            {{ partial "icon.html" .Pre }}
+        </span>
+        {{ end }}
+        <p class="text-bg font-bg" title="{{ .Title }}">
+            {{ .Name | markdownify }}
+        </p>
+        <span>
+            {{ partial "icon.html" "chevron-down" }}
+        </span>
+    </a>
+</li>
+{{ range .Children }}
+<li class="mt-1">
+    <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:"
+        ) }} target="_blank" {{ end }} class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        {{ if .Pre }}
+        <span {{ if and .Pre .Name}} class="mr-1" {{ end }}>
+            {{ partial "icon.html" .Pre }}
+        </span>
+        {{ end }}
+        <p class="text-sm font-small" title="{{ .Title }}">
+            {{ .Name | markdownify }}
+        </p>
+    </a>
+</li>
+{{ end }}
+<li class="mb-2"></li>

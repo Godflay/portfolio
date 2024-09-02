@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33678970622443b97e4e5b35a1f398d00e685de560bc693e2723b46ef08b6fe5
-size 745
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Hugo & Blowfish versions**
+Which version of Hugo and Blowfish are you using?
+
+**Additional context**
+Add any other context about the problem here.

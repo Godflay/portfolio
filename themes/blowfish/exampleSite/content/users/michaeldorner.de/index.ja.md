@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74253870523aa53f58644ce17d0041d8c53868078541e018c682cffb53f216f4
-size 477
+---
+                title: "michaeldorner.de"
+                tags: [ブログ, 個人サイト, 学術界]
+                externalUrl: "https://www.michaeldorner.de"
+                date: 9920-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

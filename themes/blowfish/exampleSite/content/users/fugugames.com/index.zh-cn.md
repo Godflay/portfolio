@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e278beb5f8ccc8fa455507ad73735124991bb16dbcbf99b2239b83b9151d121c
-size 443
+---
+                title: "fugugames.com"
+                tags: [游戏网站]
+                externalUrl: "https://fugugames.com/"
+                date: 9970-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80d11ceaa94890ef023324507087147b3e63cb0112260b37567d236da51087bc
-size 114
+import { c as r } from "./graph-dee88f0d.js";
+var e = 4;
+function a(o) {
+  return r(o, e);
+}
+export {
+  a as c
+};

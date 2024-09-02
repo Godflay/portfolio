@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5e8bbf6ddf937b960f5b33ae6f22b0e1eafa15b7bdd97af4ce18dfae2359e4a
-size 504
+---
+                title: "Ignacio Conde"
+                tags: [Personal Site,Portfolio Site,Software Developer,Videogame Developer]
+                externalUrl: "http://www.ignaciomconde.com/"
+                date: 9919-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

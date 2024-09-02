@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09c50df9abefe87f48e92858842c0f46b1ea010400105b1a6ff822bb60f8b822
-size 685
+export declare const clear: () => void;
+export declare const setAccTitle: (txt: string) => void;
+export declare const getAccTitle: () => string;
+export declare const setAccDescription: (txt: string) => void;
+export declare const getAccDescription: () => string;
+export declare const setDiagramTitle: (txt: string) => void;
+export declare const getDiagramTitle: () => string;
+declare const _default: {
+    setAccTitle: (txt: string) => void;
+    getAccTitle: () => string;
+    setDiagramTitle: (txt: string) => void;
+    getDiagramTitle: () => string;
+    getAccDescription: () => string;
+    setAccDescription: (txt: string) => void;
+    clear: () => void;
+};
+export default _default;

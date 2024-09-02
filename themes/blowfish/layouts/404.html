@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d2ef4510e355d226e6962786b56f9267fcca6ed631ac316efb71c7a64f8d230
-size 336
+{{ define "main" }}
+  <h1 class="mb-3 text-4xl font-extrabold">{{ i18n "error.404_title" | emojify }}</h1>
+  <p class="mt-8 mb-12 text-neutral-400 dark:text-neutral-500">
+    {{ i18n "error.404_error" | emojify }}
+  </p>
+  <div class="prose dark:prose-invert">
+    <p>{{ i18n "error.404_description" | emojify }}</p>
+  </div>
+{{ end }}

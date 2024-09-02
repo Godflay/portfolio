@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51c91647b862cbaa3a64e6f49ce54986925a0fa9714d670a156a18097bd85694
-size 384
+{{ $id := delimit (slice "chart" (partial "functions/uid.html" .)) "-" }}
+<div class="chart">
+  <canvas id="{{ $id }}"></canvas>
+  <script type="text/javascript">
+    window.addEventListener("DOMContentLoaded", (event) => {
+      const ctx = document.getElementById("{{ $id }}");
+      const chart = new Chart(ctx, {
+        {{ .Inner | safeJS }}
+      });
+    });
+  </script>
+</div>

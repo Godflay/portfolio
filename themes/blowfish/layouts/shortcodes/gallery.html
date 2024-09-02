@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32a8d2175cc8df0b176ce991990b0307732ac187e3f8b8fd9320f17a19a7375c
-size 135
+{{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
+
+<div id="{{ $id }}" class="gallery">
+  {{ .Inner }}
+</div>

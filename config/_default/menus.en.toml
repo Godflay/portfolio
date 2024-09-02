@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80e4f2e7f57cd3b05796d4f9ae7bbcb3409f295e6e2896a3db078ceb6f4d1c8c
-size 74
+[[main]]
+name = "CV"
+pageRef = "cv"
+weight = 20
+
+[[footer]]
+none = "none"

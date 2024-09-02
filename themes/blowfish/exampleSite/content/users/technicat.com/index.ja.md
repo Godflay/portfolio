@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1efaaa59ff5a0a77af6ab456be1ff664f678de7b4bcbbe3d2f62902dac2c247
-size 446
+---
+                title: "technicat.com"
+                tags: [企業サイト]
+                externalUrl: "https://technicat.com/"
+                date: 9971-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81c466a4824ddc15cb5a4523b269d529e64f9f0ccdede47bb489abbb0b1475f5
-size 452
+---
+                title: "nick.bouwhuis.net"
+                tags: [Sito personale]
+                externalUrl: "https://nick.bouwhuis.net"
+                date: 9975-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

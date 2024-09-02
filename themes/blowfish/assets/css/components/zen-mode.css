@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1336c577a0d0037614ce6904a8b9f48ef12807c8e61659c9266fd528e5eb6653
-size 172
+#zen-mode-button {
+    cursor:pointer
+}
+
+.zen-mode {
+    position: relative;
+}
+
+body.zen-mode-enable {
+    #bmc-wbtn, .author {
+        display:none !important;
+    }
+}
+
+
+

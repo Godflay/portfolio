@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a89cd7af5d58b03c8fc77063b555980386dff33ad4652cb6e0fcd0941f57adb
-size 449
+---
+                title: "alanctanner.com"
+                tags: [Sito personale]
+                externalUrl: "https://alanctanner.com/"
+                date: 9967-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

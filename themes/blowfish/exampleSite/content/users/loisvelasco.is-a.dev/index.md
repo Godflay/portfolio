@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f42f3ae67284604288541c2c915e2fbb5731bbb08449536790564c371a75cf7
-size 456
+---
+                title: "loisvelasco.is-a.dev"
+                tags: [Personal site]
+                externalUrl: "https://loisvelasco.is-a.dev"
+                date: 9988-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

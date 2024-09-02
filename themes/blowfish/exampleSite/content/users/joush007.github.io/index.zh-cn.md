@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93a224251ad1225f6e29be5cda20b8f2808f74e38985bed55a25842fdea9fb56
-size 452
+---
+                title: "joush007.github.io"
+                tags: [个人网站]
+                externalUrl: "https://joush007.github.io"
+                date: 9942-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

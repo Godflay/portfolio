@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04518ca9b7a01e852acfcdd10840c0d732e7af0bad7a6df7043d5a0d483bece2
-size 460
+---
+                title: "lelouvincx.github.io"
+                tags: [個人サイト]
+                externalUrl: "https://lelouvincx.github.io/"
+                date: 9964-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c34c7ea5b482ee272084ed20d26b88ac79c997035a7d1a57b601af93de1ff8c
-size 460
+---
+                title: "blog.stonegarden.dev"
+                tags: [個人サイト]
+                externalUrl: "https://blog.stonegarden.dev/"
+                date: 9939-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

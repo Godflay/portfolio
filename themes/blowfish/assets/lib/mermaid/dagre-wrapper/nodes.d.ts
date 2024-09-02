@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b682ce2fc4feabe1c107f4b96af5e0bd3a7e6f5322ffb1c8c8e8365dc57ff50
-size 208
+export function insertNode(elem: any, node: any, dir: any): Promise<any>;
+export function setNodeElem(elem: any, node: any): void;
+export function clear(): void;
+export function positionNode(node: any): any;

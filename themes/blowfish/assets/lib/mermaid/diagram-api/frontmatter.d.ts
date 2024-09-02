@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:573756fdbae96cdfb8a8033a8e9336163d671769c33a1cbe09a95af76925e3e1
-size 570
+import type { MermaidConfig } from '../config.type.js';
+interface FrontMatterMetadata {
+    title?: string;
+    displayMode?: string;
+    config?: MermaidConfig;
+}
+export interface FrontMatterResult {
+    text: string;
+    metadata: FrontMatterMetadata;
+}
+/**
+ * Extract and parse frontmatter from text, if present, and sets appropriate
+ * properties in the provided db.
+ * @param text - The text that may have a YAML frontmatter.
+ * @returns text with frontmatter stripped out
+ */
+export declare function extractFrontMatter(text: string): FrontMatterResult;
+export {};

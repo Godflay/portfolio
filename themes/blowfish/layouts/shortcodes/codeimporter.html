@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d20f3f0990456e48ed6f7913def974ffee0edd608ee04c210051f68dcab1e45
-size 281
+{{ $url := .Get "url" }}
+{{ $type := .Get "type" }}
+{{ with resources.GetRemote (printf $url) }}
+{{ $codeBlock := printf "```%s\n%s\n```" $type .Content }}
+{{ $codeBlock | markdownify }}
+{{ else }}
+{{ errorf "Code Importer Shortcode - Unable to get remote resource" . }}
+{{ end }}

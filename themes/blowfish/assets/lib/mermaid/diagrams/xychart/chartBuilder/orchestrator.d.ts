@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f620425414b483164ea96d591083b18ed9443efde62bfd91279763f3569cbe64
-size 546
+import type { DrawableElem, XYChartConfig, XYChartData, XYChartThemeConfig } from './interfaces.js';
+import type { Group } from '../../../diagram-api/types.js';
+export declare class Orchestrator {
+    private chartConfig;
+    private chartData;
+    private componentStore;
+    constructor(chartConfig: XYChartConfig, chartData: XYChartData, chartThemeConfig: XYChartThemeConfig, tmpSVGGroup: Group);
+    private calculateVerticalSpace;
+    private calculateHorizontalSpace;
+    private calculateSpace;
+    getDrawableElement(): DrawableElem[];
+}

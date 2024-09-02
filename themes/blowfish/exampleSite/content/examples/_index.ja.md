@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eff50a55dc94f1a5b899fe8cbe3cd47c411d68259741ee5579dd29267775fb71
-size 507
+---
+title: "ショーケース"
+description: "Blowfish で何が出来るか見てみる。"
+
+showLikes: true
+showViews: true
+
+cascade:
+  showEdit: false
+  showReadingTime: false
+  showSummary: false
+  showLikes: false
+  showViews: false
+---
+
+{{< lead >}}
+Blowfish で何が出来るか見てみる。
+{{< /lead >}}
+
+このセクションはテンプレートの例やインスピレーションを得ることの出来る Blowfish を使用して作成されたページのリンクがあります。
+
+---

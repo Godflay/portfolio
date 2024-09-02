@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c110d46d4abd50e4e6a18a392bfb53287515a2c3d07af1b43478df66ff58815
-size 726
+---
+title: "サンプル"
+description: "Blowfish で何ができるのか閲覧する。"
+
+cascade:
+  showEdit: false
+  showSummary: false
+  hideFeatureImage: true
+---
+
+{{< lead >}}
+Blowfish はあなたのコンテンツに命を宿します。:heart_eyes:
+{{< /lead >}}
+
+このセクションは、 Blowfish で様々な種類のコンテンツをどのように表示するのかを紹介するデモページを含みます。例としては[分類一覧]({{< ref "tags" >}})ページも参考になります。
+
+_**サイドノート:** このページは一般的な Blowfish のリストで、 Hugo が生成した `samples` コンテンツタイプと記事の要約を表示する様に設定しています。_
+
+---

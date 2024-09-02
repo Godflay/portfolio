@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d583fd39f1c71284bdae085f63b473c696b2f18369b9804a7cb375e0e20343e6
-size 77
+[module]
+[module.hugoVersion]
+extended = true
+min = "0.87.0"
+max = "0.126.3"

@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3366f15f5438d5c7ce12fccc19b146894ac2010c51b4e91e41535d54b8b787e9
-size 531
+/** Returns the styles given options */
+export interface FlowChartStyleOptions {
+    arrowheadColor: string;
+    border2: string;
+    clusterBkg: string;
+    clusterBorder: string;
+    edgeLabelBackground: string;
+    fontFamily: string;
+    lineColor: string;
+    mainBkg: string;
+    nodeBorder: string;
+    nodeTextColor: string;
+    tertiaryColor: string;
+    textColor: string;
+    titleColor: string;
+    [key: string]: string;
+}
+declare const getStyles: (options: FlowChartStyleOptions) => string;
+export default getStyles;

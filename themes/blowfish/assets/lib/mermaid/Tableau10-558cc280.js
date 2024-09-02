@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:493ffeec0bd10c9bb07430ed7a5f33da1dc186e110678b23c271258a18490148
-size 237
+function o(e) {
+  for (var c = e.length / 6 | 0, n = new Array(c), a = 0; a < c; )
+    n[a] = "#" + e.slice(a * 6, ++a * 6);
+  return n;
+}
+const r = o("4e79a7f28e2ce1575976b7b259a14fedc949af7aa1ff9da79c755fbab0ab");
+export {
+  r as d
+};

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17ea9f54978a33fb48b9997f3acf062838d809a73b1e16cdbffa310710f0b417
-size 295
+export function drawReqs(reqs: any, graph: any, svgNode: any): void;
+export function drawElements(els: any, graph: any, svgNode: any): void;
+export function draw(text: any, id: any, _version: any, diagObj: any): void;
+declare namespace _default {
+    export { draw };
+}
+export default _default;

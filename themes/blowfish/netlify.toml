@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cab2bd4eca66dc995d159c23ae60c2da017bbc679754f7bb8cbd9b77b043577e
-size 596
+[build]
+  command = "cd exampleSite && hugo --gc --minify -D -b $URL"
+  publish = "exampleSite/public"
+
+[build.environment]
+HUGO_THEMESDIR = "../.."
+HUGO_THEME = "repo"
+TZ = "Portugal/Lisbon"
+
+[context.production.environment]
+HUGO_VERSION = "0.104.1"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.104.1"
+
+[context.branch-deploy]
+command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.104.1"

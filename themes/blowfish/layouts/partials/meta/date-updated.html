@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee08a322fe5b917dde4981355265070121538d0cfc18bec1ccaff5e4832ead79
-size 157
+<time datetime="{{ . }}">
+  {{- i18n "article.date_updated" (dict "Date" (partial "functions/date.html" .)) | markdownify -}}
+</time>
+{{- /* Trim EOF */ -}}

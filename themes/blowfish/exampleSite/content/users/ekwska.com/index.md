@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:555d98f641c39f1fec129024ec3430d2069080ab9e7cf2222c0e6fcec24fdb16
-size 436
+---
+                title: "ekwska.com"
+                tags: [Personal blog]
+                externalUrl: "https://ekwska.com"
+                date: 9929-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

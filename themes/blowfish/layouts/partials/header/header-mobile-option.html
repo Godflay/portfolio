@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c48196ee53cfacc3f12cdbd0a60ee8c46cb2fba7a30de2e574be3b6a6c6ecb38
-size 164
+{{ if .HasChildren }} 
+  {{ partial "header/header-mobile-option-nested.html" . }}
+{{ else }}
+  {{ partial "header/header-mobile-option-simple.html" . }}
+{{ end }}

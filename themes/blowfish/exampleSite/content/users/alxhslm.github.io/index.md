@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:708b21678f97e13fae27952dabd267b938a9f99dfdd469f109644a43e71f2b57
-size 451
+---
+                title: "alxhslm.github.io"
+                tags: [Personal Site]
+                externalUrl: "https://alxhslm.github.io/"
+                date: 9935-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

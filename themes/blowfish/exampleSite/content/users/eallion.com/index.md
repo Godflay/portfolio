@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a82891c24d2f9b98aa27d5f58ef43ef2712beb9076cdfc61ffcdd35850fd32d2
-size 447
+---
+                title: "eallion.com"
+                tags: [Blog,Personal Site]
+                externalUrl: "http://www.eallion.com/"
+                date: 9922-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

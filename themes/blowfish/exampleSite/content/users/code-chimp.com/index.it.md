@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28f070fbfc144a155243cc89789917f2aeb5e17d89a02753d90bcea9515a7bce
-size 446
+---
+                title: "code-chimp.com"
+                tags: [Sito personale]
+                externalUrl: "https://code-chimp.com"
+                date: 9997-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

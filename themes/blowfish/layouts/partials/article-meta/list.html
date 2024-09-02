@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8768beec02e088394bce1c92ace65f3b0f9f9869547591c89c8c01e45c3c469
-size 1126
+{{/* Determine the correct context and scope */}}
+{{/* This allows for different logic depending on where the partial is called */}}
+{{ $context := . }}
+{{ $scope := default nil }}
+
+{{ if (reflect.IsMap . ) }}
+{{ $context = .context }}
+{{ $scope = cond (not .scope) nil .scope }}
+{{ end }}
+
+{{ with $context }}
+{{ $meta := newScratch }}
+
+{{/* Gather partials for this context */}}
+
+{{ if (.Params.showViews | default (.Site.Params.list.showViews | default false)) }}
+{{ $meta.Add "partials" (slice (partial "meta/views.html" .)) }}
+{{ end }}
+
+{{ if (.Params.showLikes | default (.Site.Params.list.showLikes | default false)) }}
+{{ $meta.Add "partials" (slice (partial "meta/likes.html" .)) }}
+{{ end }}
+
+{{ if and (eq $scope "single") (.Params.showLikes | default (.Site.Params.list.showLikes | default false)) }}
+{{ $meta.Add "partials" (slice (partial "meta/likes_button.html" .)) }}
+{{ end }}
+
+
+<div class="flex flex-row flex-wrap items-center">
+  {{/* Output partials */}}
+  {{ with ($meta.Get "partials") }}
+  {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML}}
+  {{ end }}
+</div>
+
+{{ end }}

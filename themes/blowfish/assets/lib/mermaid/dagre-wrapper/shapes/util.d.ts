@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:69fd6f9535a2bb6f38b7cd6bcea5a7638db795f34472116951815e228f6f8f21
-size 384
+/**
+ * @param parent
+ * @param w
+ * @param h
+ * @param points
+ */
+export function insertPolygonShape(parent: any, w: any, h: any, points: any): any;
+export function labelHelper(parent: any, node: any, _classes: any, isNode: any): Promise<{
+    shapeSvg: any;
+    bbox: any;
+    halfPadding: number;
+    label: any;
+}>;
+export function updateNodeBounds(node: any, element: any): void;

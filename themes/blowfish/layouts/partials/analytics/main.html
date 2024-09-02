@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f74f3d3bd81d2ec2a2655bf0ba53feafbdbcfcf9bd879d048c78882a4df1bf76
-size 281
+{{ with site.Params.fathomAnalytics.site }}
+{{ partial "analytics/fathom.html" }}
+{{ end }}
+{{ with site.Config.Services.GoogleAnalytics.ID }}
+{{ partial "analytics/ga.html" }}
+{{ end }}
+{{ with site.Params.umamiAnalytics.websiteid }}
+{{ partial "analytics/umami.html" }}
+{{ end }}

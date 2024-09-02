@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:541bd7761259df64cc45d0050913da6016fa927e8c49d337fcdfa9948de40999
-size 465
+---
+                title: "nikarashihatsu.github.io"
+                tags: [Personal site]
+                externalUrl: "https://nikarashihatsu.github.io/"
+                date: 9962-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

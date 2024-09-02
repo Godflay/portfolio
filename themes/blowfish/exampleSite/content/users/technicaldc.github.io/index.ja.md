@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9db1bc03ae0e213d569d7a63516f407c86544569e0f7cfa27590bf28798f71f8
-size 473
+---
+                title: "technicaldc.github.io"
+                tags: [個人サイト, ブログ]
+                externalUrl: "https://technicaldc.github.io/"
+                date: 9936-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

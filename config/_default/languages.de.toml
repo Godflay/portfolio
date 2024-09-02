@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8378414cc0a4e0618bf1e051af06c51dc99d0197399939d3a5b0b8322b97f099
-size 738
+languageCode = "de"
+languageName = "German"
+weight = 3
+title = "gabe's archives"
+
+[params]
+displayName = "DE"
+logo = "bongo-cat-transparent.jpg"
+isoCode = "de"
+rtl = false
+dateFormat = "2 January 2006"
+description = "a place to archive my personal and professional projects"
+
+[author]
+name = "Gabriel Godfrey"
+headline = "game developer"
+bio = ""
+image = "author-picture.jpg"
+links = [ { github = "https://github.com/Godflay" }, { instagram = "https://www.instagram.com/stinkiyuki/" }, { linkedin = "https://www.linkedin.com/in/gabriel-godfrey-5530b7218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" }, { steam = "https://steamcommunity.com/id/Godflay/" }, { x-twitter = "https://x.com/_skiddi3" } ]

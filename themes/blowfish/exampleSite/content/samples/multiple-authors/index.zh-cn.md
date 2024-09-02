@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95da94fea8dd0f882b670b9c99ecaaf2f0bffe97eb6f32d6ced7a7bb2c59e456
-size 300
+---
+title: "多作者"
+date: 2022-10-12
+draft: false
+description: "多作者设置示例"
+tags: ["作者", "示例"]
+summary: "如何使用多个作者的简单示例。"
+showAuthor: false
+authors:
+  - "nunocoracao"
+  - "secondauthor"
+type: 'sample'
+---
+
+这是具有多个作者的文章的示例。

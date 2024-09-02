@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a0249a2d17ea9c02e2e7ed2ba8570d0a6684fc62900657223a17f0cd029ae21
-size 337
+/**
+ * Values that have been hardcoded in src/diagrams/er/styles.js. These can be used by
+ *   theme-_._ files to maintain display styles until themes, styles, renderers are revised. --
+ *   2022-09-22
+ */
+export declare const oldAttributeBackgroundColorOdd = "#ffffff";
+export declare const oldAttributeBackgroundColorEven = "#f2f2f2";

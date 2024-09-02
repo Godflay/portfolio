@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c626fee7072eeea71fa860be8f7bf8d995752cddc03cc53c37dc37b6bdecbc1
-size 459
+---
+                title: "ciicadalab.github.io"
+                tags: [組織サイト]
+                externalUrl: "https://ciicadalab.github.io"
+                date: 9992-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

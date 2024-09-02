@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:829f9980b812af9a4a4190a6fc4d3de1cb065f5d52e9161a65c975656b25e571
-size 357
+import type { EdgeData, Point } from '../types.js';
+export declare const getLineFunctionsWithOffset: (edge: Pick<EdgeData, 'arrowTypeStart' | 'arrowTypeEnd'>) => {
+    x: (d: Point | [number, number], i: number, data: (Point | [number, number])[]) => number;
+    y: (d: Point | [number, number], i: number, data: (Point | [number, number])[]) => number;
+};

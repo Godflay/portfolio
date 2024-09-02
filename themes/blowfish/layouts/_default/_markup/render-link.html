@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e571e84a9e4fcda2b5c33b6e8431f9988e7fdf910b39378713c82919a347bb3
-size 257
+<a href="{{ .Destination | safeURL }}"
+    {{- with .Title -}}
+    title="{{ . }}"
+    {{- end }}
+    {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") }} target="_blank"{{ end }}>
+    {{- .Text | safeHTML -}}
+</a>

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34de964425b0b3151fdbdd36af35bea52240acf82eea30b1b421f52a24f91ddb
-size 459
+---
+                title: "the-maze.net"
+                tags: [個人サイト, ブログ]
+                externalUrl: "https://www.the-maze.net/"
+                date: 9934-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a3104a1afe424c6a4d5b1c9219c5c451808463f4727d2e78e0682110c0d1d19
-size 486
+---
+title: "An External Article"
+date: 2019-01-24
+externalUrl: "https://nunocoracao.com/projects/"
+summary: "The `externalUrl` front matter parameter can link to any URL."
+showReadingTime: true
+_build:
+  render: "false"
+  list: "local"
+type: 'sample'
+---
+
+This page uses the `externalUrl` front matter parameter to link to an article outside of this Hugo website.
+
+It's great for things like linking to posts on Medium or to research papers you may have hosted on third party websites.

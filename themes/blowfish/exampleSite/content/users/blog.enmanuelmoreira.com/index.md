@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:200fbaa5df4e19572c8da3fc9b575934a5f4127ae998c9e7e20aa5c5c90c10bb
-size 464
+---
+                title: "blog.enmanuelmoreira.com"
+                tags: [Personal site]
+                externalUrl: "https://blog.enmanuelmoreira.com"
+                date: 9961-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

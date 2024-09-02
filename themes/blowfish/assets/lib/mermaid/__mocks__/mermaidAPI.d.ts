@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e36443a47cc40e8b17923cc13693e4f0af0c2beda6951bc80c8d9f5fb3080dfc
-size 759
+export declare const mermaidAPI: {
+    render: import("@vitest/spy").Mock<any, any>;
+    parse: (text: string, parseOptions?: import("../mermaidAPI.js").ParseOptions | undefined) => Promise<boolean>;
+    initialize: import("@vitest/spy").Mock<any, any>;
+    getConfig: () => import("../config.type.js").MermaidConfig;
+    setConfig: (conf: import("../config.type.js").MermaidConfig) => import("../config.type.js").MermaidConfig;
+    getSiteConfig: () => import("../config.type.js").MermaidConfig;
+    updateSiteConfig: (conf: import("../config.type.js").MermaidConfig) => import("../config.type.js").MermaidConfig;
+    reset: () => void;
+    globalReset: () => void;
+    defaultConfig: import("../config.type.js").MermaidConfig;
+};
+export default mermaidAPI;

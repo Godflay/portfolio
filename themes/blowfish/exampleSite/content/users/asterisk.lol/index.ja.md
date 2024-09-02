@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6fbc854358e70d4992975854c0c2a10f8e8366d7fc334e58518528039261470
-size 454
+---
+                title: "asterisk.lol"
+                tags: [ブログ, 個人サイト]
+                externalUrl: "https://asterisk.lol"
+                date: 9931-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

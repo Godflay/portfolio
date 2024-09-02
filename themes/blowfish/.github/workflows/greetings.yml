@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:603d5c2ba98648856e75ece0486badbd66d211d865cf899882390b30fb474bbe
-size 392
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Thanks for contributing to Blowfish"
+        pr-message: "Thanks for contributing to Blowfish"

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02f9e1f2d11455cddb6bda9965f12a6fb412ae66f9eb46efeca2dad079aaa023
-size 439
+---
+                title: "clemsau.com"
+                tags: [Personal site]
+                externalUrl: "https://clemsau.com/"
+                date: 9965-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

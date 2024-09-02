@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd5bb29d63e559253195be8a6de138fa6fe56de8f21138d84aa9bb1b2c58f2fc
-size 459
+---
+                title: "BoringTech.net"
+                tags: [個人サイト, ブログ]
+                externalUrl: "https://boringtech.net/"
+                date: 9937-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

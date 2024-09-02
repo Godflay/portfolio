@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:087d1559bc8e25c5dda477ebcd5042029e3858bd532d69d0bba761ffd64e5fde
-size 452
+---
+                title: "adilhyz.github.io"
+                tags: [Sito personale]
+                externalUrl: "https://adilhyz.github.io"
+                date: 9947-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

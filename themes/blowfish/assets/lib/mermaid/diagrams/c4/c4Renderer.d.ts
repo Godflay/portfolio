@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7200e817b65da5a2a16c238c1f834ab700fa9a2f0f4c55f0215e6e6ee83911ba
-size 589
+export function setConf(cnf: any): void;
+export function drawBoundary(diagram: any, boundary: any, bounds: any): void;
+export function drawC4ShapeArray(currentBounds: any, diagram: any, c4ShapeArray: any, c4ShapeKeys: any): void;
+export function drawRels(diagram: any, rels: any, getC4ShapeObj: any, diagObj: any): void;
+export function draw(_text: any, id: any, _version: any, diagObj: any): void;
+declare namespace _default {
+    export { drawC4ShapeArray as drawPersonOrSystemArray };
+    export { drawBoundary };
+    export { setConf };
+    export { draw };
+}
+export default _default;

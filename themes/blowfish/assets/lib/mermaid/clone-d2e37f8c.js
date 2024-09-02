@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9fcaadc778c40d6b635d16e52017aee49b06ac0152cddacd832b0a54f23bbaa8
-size 180
+import { c as baseClone } from "./graph-af3d5df6.js";
+var CLONE_SYMBOLS_FLAG = 4;
+function clone(value) {
+  return baseClone(value, CLONE_SYMBOLS_FLAG);
+}
+export {
+  clone as c
+};

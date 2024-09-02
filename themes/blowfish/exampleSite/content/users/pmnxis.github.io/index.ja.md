@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20c9fb52dded7152f91cce494b74ba15fa9e17fe5a9878b8df2d396785eec0e0
-size 451
+---
+                title: "pmnxis.github.io"
+                tags: [個人サイト]
+                externalUrl: "https://pmnxis.github.io"
+                date: 9993-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+

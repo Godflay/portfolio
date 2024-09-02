@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9224cfa0c0875ef7f83a5035962eb06af2c0be2702f58ccaf72d630569fe18a
-size 457
+---
+                title: "innerknowing"
+                tags: [Personal site,Modeller]
+                externalUrl: "https://innerknowing.xyz/en/"
+                date: 9926-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---

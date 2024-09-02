@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec1dea7f1c9447e585f59f9a22dcff6326c788e53a5b3bea6646d5f6db4529d3
-size 465
+---
+                title: "marupanda.art/marucomics"
+                tags: [漫画网站]
+                externalUrl: "https://marupanda.art/marucomics/"
+                date: 9958-08-08
+                showDate: false
+                showAuthor: false
+                showReadingTime: false
+                showEdit: false
+                showLikes: false
+                showViews: false
+                layoutBackgroundHeaderSpace: false
+                ---
+
