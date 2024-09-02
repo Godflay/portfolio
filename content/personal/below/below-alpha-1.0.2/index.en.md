@@ -17,7 +17,7 @@ Slow progress this week, but progress is progress!<br/>
 -The ops room isn't empty anymore.<br/>
 ## Bugfix
 -Fixed misaligned texts in the Menu caused by translation.<br/>
--Fixed an issue where picking up the flashlight would cause the game to crash.<br/>
+-Fixed an edgecase issue where picking up certain objects would cause the game to crash.<br/>
 ## Known issues
 -Some texts in-game might be misaligned, mistranslated or not translated at all. The feature is new and will be improved. Localization is hard m'kay!<br/>
 -Settings menu from the Main menu is working! However, only the bug report feature and the language settings are setup so far.<br/>
