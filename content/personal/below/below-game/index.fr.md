@@ -16,7 +16,7 @@ Below is a horror game that takes place in a metro station. You're on your way f
 ## Download
 The latest Windows version can be downloaded here:<br/>
 
-<iframe frameborder="0" src="https://itch.io/embed/2946076?dark=true" width="552" height="167"><a href="https://stinkiyuki.itch.io/below">Below by stinkiyuki</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2946076?linkback=true&amp;dark=true" width="552" height="167"><a href="https://stinkiyuki.itch.io/below">Below by stinkiyuki</a></iframe>
 
 ## Credits
 This game uses some free assets and sounds, respective owners are credited in-game.
