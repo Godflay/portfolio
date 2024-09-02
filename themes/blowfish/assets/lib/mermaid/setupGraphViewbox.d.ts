@@ -1,3 +1,3 @@
-export function calculateSvgSizeAttrs(height: number, width: number, useMaxWidth: boolean): Map<'height' | 'width' | 'style', string>;
-export function configureSvgSize(svgElem: import('./diagram-api/types.js').SVG, height: number, width: number, useMaxWidth: boolean): void;
-export function setupGraphViewbox(graph: any, svgElem: any, padding: any, useMaxWidth: any): void;
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ef5a2d0a124562c20556af093e930bf0e0728bc902c8abe30dab230586b1ed
+size 374

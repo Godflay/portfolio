@@ -1,32 +1,3 @@
-/**
- * Resettable state storage.
- * @example
- * ```
- * const state = new ImperativeState(() => {
- *   foo: undefined as string | undefined,
- *   bar: [] as number[],
- *   baz: 1 as number | undefined,
- * });
- *
- * state.records.foo = "hi";
- * console.log(state.records.foo); // prints "hi";
- * state.reset();
- * console.log(state.records.foo); // prints "default";
- *
- * // typeof state.records:
- * // {
- * //   foo: string | undefined, // actual: undefined
- * //   bar: number[],           // actual: []
- * //   baz: number | undefined, // actual: 1
- * // }
- * ```
- */
-export declare class ImperativeState<S extends Record<string, unknown>> {
-    private init;
-    records: S;
-    /**
-     * @param init - Function that creates the default state.
-     */
-    constructor(init: () => S);
-    reset(): void;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab42c3d8a4abcbbf6611202b2c1499213b196cf9e2dee866e96f2df15ce40ff5
+size 809

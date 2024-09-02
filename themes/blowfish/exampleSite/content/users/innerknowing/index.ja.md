@@ -1,14 +1,3 @@
----
-                title: "innerknowing"
-                tags: [個人サイト, モデラー]
-                externalUrl: "https://innerknowing.xyz/en/"
-                date: 9926-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:63a6bba147845399d00c68ab756354e498ed015f02d37abe344c4315b6458dfa
+size 465

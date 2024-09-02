@@ -1,14 +1,3 @@
----
-                title: "n9o.xyz"
-                tags: [個人サイト, テーマ作者]
-                externalUrl: "https://n9o.xyz"
-                date: 9999-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd9a0ba09cc2794bc68b1f576a6d8dc86ec0026b7451bc3f228392900922e48
+size 450

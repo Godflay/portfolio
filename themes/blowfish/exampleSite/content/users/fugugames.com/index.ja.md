@@ -1,14 +1,3 @@
----
-                title: "fugugames.com"
-                tags: [ゲームサイト]
-                externalUrl: "https://fugugames.com/"
-                date: 9970-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eefcf0c4355a772e772d8fafb5c1d904f9ca1172d71119852387a55a86f8b975
+size 449

@@ -1,14 +1,3 @@
----
-                title: "theindiecoder.cloud"
-                tags: [个人网站]
-                externalUrl: "https://theindiecoder.cloud"
-                date: 9951-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb1fd34c92dd09c71b08057980c7a57ab56dcea53e7f6e0d85a41cfe356ad8d
+size 454

@@ -1,14 +1,3 @@
----
-                title: "jamiemoxon.tech"
-                tags: [个人网站]
-                externalUrl: "https://jamiemoxon.tech"
-                date: 9952-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:53fa8ec2d1919e699c3e71538da656e7e8ab53e9aab6c3e2a3cb71947a03fc82
+size 446

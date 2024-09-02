@@ -1,6 +1,3 @@
-import type { MarkdownLine } from './types.js';
-/**
- * @param markdown - markdown to split into lines
- */
-export declare function markdownToLines(markdown: string): MarkdownLine[];
-export declare function markdownToHTML(markdown: string): string;
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e1ac91312735f30a6427ed0f5b78c09f51925355ab8b0d41c24a021005f03df
+size 247

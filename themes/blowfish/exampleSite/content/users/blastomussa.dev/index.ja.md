@@ -1,14 +1,3 @@
----
-                title: "blastomussa.dev"
-                tags: [個人サイト]
-                externalUrl: "https://blastomussa.dev"
-                date: 9985-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccbfdded7b082dce1c311760461823cd61622ad54ceda2959c2267bf57270b81
+size 449

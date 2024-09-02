@@ -1,13 +1,3 @@
----
-                title: "gma.name"
-                tags: [Personal site]
-                externalUrl: "https://gma.name"
-                date: 9950-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:9af380cc99bcfcb2c28d80afe5a26120cdc26b34960f94795349ee014a45b979
+size 432

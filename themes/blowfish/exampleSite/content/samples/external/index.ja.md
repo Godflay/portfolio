@@ -1,15 +1,3 @@
----
-title: "外部の記事"
-date: 2019-01-24
-externalUrl: "https://nunocoracao.com/projects/"
-summary: "`externalUrl` 表示は任意の URL にリンクすることができます。"
-showReadingTime: true
-_build:
-  render: "false"
-  list: "local"
-type: 'sample'
----
-
-このページは、 `externalUrl` 表示パラメータを利用して、この Hugo ウェブサイト外の記事とリンクしています。
-
-Medium の投稿へのリンクや、サードパーティのウェブサイトでホストしている研究論文へのリンクなどに最適です。
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2fe0209f1d33a971c271637d92997d861a6609a928f507fe7d8185392b64b3b
+size 574

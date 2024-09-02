@@ -1,14 +1,3 @@
----
-                title: "deepumohan.com/tech"
-                tags: [Blog sulla tecnologia]
-                externalUrl: "https://deepumohan.com/tech/"
-                date: 9944-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c862f9c237bbd9ec414981409356c89083a4d477eb5bca56091e3d2b1eb3d13c
+size 464

@@ -1,15 +1,3 @@
-{
-    "name": "Dummy Second Author",
-    "image" : "img/author2.png",
-    "bio": "Dummy",
-    "social": [
-        { "linkedin": "https://linkedin.com/in/nunocoracao" },
-        { "twitter": "https://twitter.com/nunocoracao" },
-        { "instagram": "https://instagram.com/nunocoracao" },
-        { "medium": "https://medium.com/@nunocoracao" },
-        { "github": "https://github.com/nunocoracao" },
-        { "goodreads": "http://goodreads.com/nunocoracao" },
-        { "keybase": "https://keybase.io/nunocoracao" },
-        { "reddit": "https://reddit.com/user/nunoheart" }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b113dacf7273e9ebc0a5497a9e83a912ea5bce40bc0e9d519a00699b2881262a
+size 585

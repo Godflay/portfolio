@@ -1,13 +1,3 @@
----
-                title: "jamiemoxon.tech"
-                tags: [Personal site]
-                externalUrl: "https://jamiemoxon.tech"
-                date: 9952-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd77ec705c8c1748d84d3c58a547ef93cd233b7460a28b7ba3995088a8f8645f
+size 446

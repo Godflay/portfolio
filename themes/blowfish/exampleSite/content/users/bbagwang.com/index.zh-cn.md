@@ -1,14 +1,3 @@
----
-                title: "bbagwang.com"
-                tags: [个人网站]
-                externalUrl: "https://bbagwang.com"
-                date: 9953-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7af58854b302f81c3363a3301100c677daec7a4c0665c61119e400d0c098342
+size 440

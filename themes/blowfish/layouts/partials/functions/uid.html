@@ -1,13 +1,3 @@
-{{ $uid := .Page.RelPermalink }}
-{{ $ctx := . }}
-
-{{ range seq 16 }}
-  {{ with $ctx }}
-    {{ $uid = printf "%s-%d" $uid .Ordinal }}
-    {{ $ctx = .Parent }}
-  {{ else }}
-    {{ break }}
-  {{ end }}
-{{ end }}
-
-{{ return md5 $uid }}
+version https://git-lfs.github.com/spec/v1
+oid sha256:77b2acae074e226d64e352af7e270caf8114dfa099a6bb1697dd16ca70e0d67c
+size 231

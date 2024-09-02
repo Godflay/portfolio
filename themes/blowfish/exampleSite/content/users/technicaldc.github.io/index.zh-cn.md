@@ -1,14 +1,3 @@
----
-                title: "technicaldc.github.io"
-                tags: [个人网站, 博客]
-                externalUrl: "https://technicaldc.github.io/"
-                date: 9936-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef8ef44e9d617e60a171a6720951ff42658e17eb29087cd16b1c470106df92e
+size 467

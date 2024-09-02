@@ -1,13 +1,3 @@
----
-                title: "mariuskimmina.com"
-                tags: [Personal site]
-                externalUrl: "https://mariuskimmina.com/"
-                date: 9972-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5844f49c7d7dd2b51db6bbfff9c24cec62fcc9de205fe139dbba2180e1092c1
+size 451

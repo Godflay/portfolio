@@ -1,14 +1,3 @@
----
-                title: "rdgo.dev"
-                tags: [Sito personale]
-                externalUrl: "https://rdgo.dev/"
-                date: 9966-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f3d4ff4f464dd95a53363f85906596ca96a6c1deec77e9d53421b092e143ec
+size 435

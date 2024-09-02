@@ -1,14 +1,3 @@
----
-                title: "blog.muffn.io"
-                tags: [个人网站]
-                externalUrl: "https://blog.muffn.io/"
-                date: 9976-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cbccb324f5494380fe609364627aa13dbf1397d2f2141de188536c60e35da44
+size 443

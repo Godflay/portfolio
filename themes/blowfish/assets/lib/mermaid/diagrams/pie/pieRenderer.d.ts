@@ -1,13 +1,3 @@
-import type { DrawDefinition } from '../../diagram-api/types.js';
-/**
- * Draws a Pie Chart with the data given in text.
- *
- * @param text - pie chart code
- * @param id - diagram id
- * @param _version - MermaidJS version from package.json.
- * @param diagObj - A standard diagram containing the DB and the text and type etc of the diagram.
- */
-export declare const draw: DrawDefinition;
-export declare const renderer: {
-    draw: DrawDefinition;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:f43f98ac3a68b6a247664d3ff1ed0ac0fac7da871669b936ae8d4be0feebec15
+size 447

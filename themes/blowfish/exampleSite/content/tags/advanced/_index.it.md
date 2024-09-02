@@ -1,7 +1,3 @@
----
-title: Advanced
----
-
-This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:
-
-You can also use these content pages to define Hugo metadata like titles and descriptions that will be used for SEO and other purposes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9271b51c974eefdbda710b9644118761fdb424cd3652b273dd41d4fc28c38d6
+size 353

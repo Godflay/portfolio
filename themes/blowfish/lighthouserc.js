@@ -1,15 +1,3 @@
-module.exports = {
-  ci: {
-    collect: {
-      startServerCommand: "npm run example -- --disableLiveReload --minify",
-      startServerReadyPattern: "Web Server is available",
-      url: ["http://localhost:8008/blowfish/samples/emoji/"],
-      settings: {
-        skipAudits: ["uses-text-compression", "uses-long-cache-ttl"],
-      },
-    },
-    upload: {
-      target: "temporary-public-storage",
-    },
-  },
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:94fbe3ab05dccdd0bfcfc5c57422ecf85a4c1d163a337398e702f32fe67d5b57
+size 414

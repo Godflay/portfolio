@@ -1,14 +1,3 @@
----
-                title: "notes.bluesdriveamelia.space"
-                tags: [Blog, Sito personale]
-                externalUrl: "https://notes.bluesdriveamelia.space/"
-                date: 9930-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fccf1efd8bdd56a12e169cac7869a54e412bde1d908ed2f414efb37271c807d
+size 481

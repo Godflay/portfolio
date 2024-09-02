@@ -1,14 +1,3 @@
----
-                title: "loisvelasco.is-a.dev"
-                tags: [个人网站]
-                externalUrl: "https://loisvelasco.is-a.dev"
-                date: 9988-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df6123a79f725e5bad26febac4f43c54c42be53876d0d4b490eca3435c12a67
+size 456

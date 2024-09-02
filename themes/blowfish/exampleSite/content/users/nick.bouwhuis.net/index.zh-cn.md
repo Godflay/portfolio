@@ -1,14 +1,3 @@
----
-                title: "nick.bouwhuis.net"
-                tags: [个人网站]
-                externalUrl: "https://nick.bouwhuis.net"
-                date: 9975-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca8fda3872d4f30c7b13be9439d0d230bd698b50bb2190b286bc91215f645ff9
+size 450

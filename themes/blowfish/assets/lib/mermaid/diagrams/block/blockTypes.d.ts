@@ -1,36 +1,3 @@
-export type { BlockDiagramConfig as BlockConfig } from '../../config.type.js';
-export type BlockType = 'na' | 'column-setting' | 'edge' | 'round' | 'block_arrow' | 'space' | 'square' | 'diamond' | 'hexagon' | 'odd' | 'lean_right' | 'lean_left' | 'trapezoid' | 'inv_trapezoid' | 'rect_left_inv_arrow' | 'odd_right' | 'circle' | 'ellipse' | 'stadium' | 'subroutine' | 'cylinder' | 'group' | 'doublecircle' | 'classDef' | 'applyClass' | 'applyStyles' | 'composite';
-export interface Block {
-    start?: string;
-    end?: string;
-    arrowTypeEnd?: string;
-    arrowTypeStart?: string;
-    width?: number;
-    id: string;
-    label?: string;
-    intersect?: any;
-    parent?: Block;
-    type?: BlockType;
-    children: Block[];
-    size?: {
-        width: number;
-        height: number;
-        x: number;
-        y: number;
-    };
-    node?: any;
-    columns?: number;
-    classes?: string[];
-    directions?: string[];
-    css?: string;
-    styleClass?: string;
-    styles?: string[];
-    stylesStr?: string;
-    widthInColumns?: number;
-}
-export interface ClassDef {
-    id: string;
-    textStyles: string[];
-    styles: string[];
-}
-export type Direction = 'up' | 'down' | 'left' | 'right' | 'x' | 'y';
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3ed36bc3e1375ed70c0c7249ef30ad102495f27e7340db658301cd8b174fea
+size 1203

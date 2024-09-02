@@ -1,5 +1,3 @@
-import type { Group } from '../../../diagram-api/types.js';
-import type { DrawableElem, XYChartConfig, XYChartData, XYChartThemeConfig } from './interfaces.js';
-export declare class XYChartBuilder {
-    static build(config: XYChartConfig, chartData: XYChartData, chartThemeConfig: XYChartThemeConfig, tmpSVGGroup: Group): DrawableElem[];
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:57369ef088cb563502ca435674e207e43860e4ac3fe6477e8a21e345429e899f
+size 340

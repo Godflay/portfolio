@@ -1,13 +1,3 @@
-function css(name) {
-  return "rgb(" + getComputedStyle(document.documentElement).getPropertyValue(name) + ")";
-}
-
-Chart.defaults.font.size = 14;
-Chart.defaults.backgroundColor = css("--color-primary-300");
-Chart.defaults.elements.point.borderColor = css("--color-primary-400");
-Chart.defaults.elements.bar.borderColor = css("--color-primary-500");
-Chart.defaults.elements.bar.borderWidth = 1;
-Chart.defaults.elements.line.borderColor = css("--color-primary-400");
-Chart.defaults.elements.arc.backgroundColor = css("--color-primary-200");
-Chart.defaults.elements.arc.borderColor = css("--color-primary-500");
-Chart.defaults.elements.arc.borderWidth = 1;
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fe6590b413acea1128230ae4809821662a3bf4c4dd4416152005cf225ecea5d
+size 654

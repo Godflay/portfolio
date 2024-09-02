@@ -1,20 +1,3 @@
-function css(name) {
-  return "rgb(" + getComputedStyle(document.documentElement).getPropertyValue(name) + ")";
-}
-
-mermaid.initialize({
-  theme: "base",
-  themeVariables: {
-    background: css("--color-neutral"),
-    primaryColor: css("--color-primary-200"),
-    secondaryColor: css("--color-secondary-200"),
-    tertiaryColor: css("--color-neutral-100"),
-    primaryBorderColor: css("--color-primary-400"),
-    secondaryBorderColor: css("--color-secondary-400"),
-    tertiaryBorderColor: css("--color-neutral-400"),
-    lineColor: css("--color-neutral-600"),
-    fontFamily:
-      "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,sans-serif",
-    fontSize: "16px",
-  },
-});
+version https://git-lfs.github.com/spec/v1
+oid sha256:20ca7d6a69f9209d1d38f63a0b829e831ba1ed2c716b960f9dc341f8ed39ad55
+size 730

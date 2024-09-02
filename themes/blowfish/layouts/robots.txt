@@ -1,7 +1,3 @@
-User-agent: *
-{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
-Allow: /
-{{- else }}
-Disallow: /
-{{- end }}
-Sitemap: {{ "sitemap.xml" | absURL }}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b1df8518684fec0aec50649f684ffcc9bd28a0c84175cbc8614d63747ec55a
+size 164

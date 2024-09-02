@@ -1,12 +1,3 @@
-/**
- * Draws an info picture in the tag with id: id based on the graph definition in text.
- *
- * @param _text - Mermaid graph definition.
- * @param id - The text for the error
- * @param version - The version
- */
-export declare const draw: (_text: string, id: string, version: string) => void;
-export declare const renderer: {
-    draw: (_text: string, id: string, version: string) => void;
-};
-export default renderer;
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb702bdb796516da1739cbe1bff41cb5d6af7f73e7c130bcab08f0a870dea5c
+size 418

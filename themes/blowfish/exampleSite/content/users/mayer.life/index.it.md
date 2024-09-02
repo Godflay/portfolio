@@ -1,14 +1,3 @@
----
-                title: "mayer.life"
-                tags: [Sito personale]
-                externalUrl: "https://mayer.life"
-                date: 9949-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:787e922155cabbad43d58f752b63257aaf09fe7d5e60c72d4cc385c2dc5a9a92
+size 438

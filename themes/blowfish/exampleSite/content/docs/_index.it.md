@@ -1,15 +1,3 @@
----
-title: "Documenti"
-description: "Scopri come utilizzare Blowfish e le sue funzionalità."
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
-
----
-{{< lead >}}
-Semplice ma potente. Scopri come utilizzare Blowfish e le sue funzionalità.
-{{< /lead >}}
-
-Questa sezione contiene tutto ciò che devi sapere su Blowfish. Se sei nuovo, consulta la guida [Installazione]({{< ref "docs/installation" >}}) per iniziare o visita la sezione [Esempi]({{< ref "samples" >}}) per vedere cosa può fare Blowfish.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0c28c1028b11e0110b3badc9b5c696cb4eb2c59f7a26376dfbc86c33e93af9a
+size 522

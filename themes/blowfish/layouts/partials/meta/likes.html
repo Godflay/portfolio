@@ -1,22 +1,3 @@
-<span>
-  {{ $id := "null" }}
-  {{ if eq .Kind "taxonomy" }}
-    {{ $id = delimit (slice "likes_taxonomy_" .Page.Data.Plural) "" }}
-  {{ else if eq .Kind "term" }}
-    {{ $id = delimit (slice "likes_term_" .Page.Data.Term) "" }}
-  {{ else }}
-    {{ $translations := .AllTranslations }}
-    {{ with .File }}
-      {{ $path := .Path }}
-      {{range $translations}}
-        {{ $lang := print "." .Lang ".md" }}
-        {{ $path = replace $path $lang ".md" }}
-      {{end}}
-      {{ $id = delimit (slice "likes_" $path) "" }}
-    {{ end }}
-  {{ end }}
-  <span id="{{ $id }}"
-    class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400"
-    title="likes">loading</span>
-  <span class="inline-block align-text-bottom">{{ partial "icon.html" "heart" }}</span>
-</span>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30e89aca9da64233b0cdc78461fe5144384a6c43682994d84764f66b0e7583b
+size 834

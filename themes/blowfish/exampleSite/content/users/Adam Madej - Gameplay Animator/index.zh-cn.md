@@ -1,14 +1,3 @@
----
-                title: "Adam Madej - Gameplay Animator"
-                tags: [作品集网站, 博客, 个人网站]
-                externalUrl: "http://www.adammadej.com/"
-                date: 9923-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d226515188a380b9780590dfcc116620f981ec6559a08abda0352078282b968
+size 488

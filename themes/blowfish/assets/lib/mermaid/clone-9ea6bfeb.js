@@ -1,8 +1,3 @@
-import { c as baseClone } from "./graph-fe24fab6.js";
-var CLONE_SYMBOLS_FLAG = 4;
-function clone(value) {
-  return baseClone(value, CLONE_SYMBOLS_FLAG);
-}
-export {
-  clone as c
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b4e93a0e377f6c6291f48442df303698703271d6190764c544a857c7c4dd74
+size 180

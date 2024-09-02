@@ -1,12 +1,3 @@
-import type { BarPlotData, BoundingRect, DrawableElem, XYChartConfig } from '../../interfaces.js';
-import type { Axis } from '../axis/index.js';
-export declare class BarPlot {
-    private barData;
-    private boundingRect;
-    private xAxis;
-    private yAxis;
-    private orientation;
-    private plotIndex;
-    constructor(barData: BarPlotData, boundingRect: BoundingRect, xAxis: Axis, yAxis: Axis, orientation: XYChartConfig['chartOrientation'], plotIndex: number);
-    getDrawableElement(): DrawableElem[];
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5367862fdd9daac64a8299567a125833c9128cf15ff442f03ee79aa29347a04f
+size 513

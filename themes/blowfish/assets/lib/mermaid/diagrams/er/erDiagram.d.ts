@@ -1,34 +1,3 @@
-export declare const diagram: {
-    parser: any;
-    db: {
-        Cardinality: {
-            ZERO_OR_ONE: string;
-            ZERO_OR_MORE: string;
-            ONE_OR_MORE: string;
-            ONLY_ONE: string;
-            MD_PARENT: string;
-        };
-        Identification: {
-            NON_IDENTIFYING: string;
-            IDENTIFYING: string;
-        };
-        getConfig: () => import("../../config.type.js").ErDiagramConfig | undefined;
-        addEntity: (name: any, alias?: undefined) => any;
-        addAttributes: (entityName: any, attribs: any) => void;
-        getEntities: () => {};
-        addRelationship: (entA: any, rolA: any, entB: any, rSpec: any) => void;
-        getRelationships: () => any[];
-        clear: () => void;
-        setAccTitle: (txt: string) => void;
-        getAccTitle: () => string;
-        setAccDescription: (txt: string) => void;
-        getAccDescription: () => string;
-        setDiagramTitle: (txt: string) => void;
-        getDiagramTitle: () => string;
-    };
-    renderer: {
-        setConf: (cnf: any) => void;
-        draw: (text: any, id: any, _version: any, diagObj: any) => void;
-    };
-    styles: (options: any) => string;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef997575329a2915df2e4e82139f170f7fde16a7239bfd507a910dbee516051a
+size 1183

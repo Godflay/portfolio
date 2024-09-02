@@ -1,13 +1,3 @@
----
-                title: "omarohn.de"
-                tags: [Personal site]
-                externalUrl: "https://omarohn.de"
-                date: 9987-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:30a050b7a8fc7067c677a04229a2867ed08f5f86b505114846c280bedd496e95
+size 436

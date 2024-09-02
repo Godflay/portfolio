@@ -1,13 +1,3 @@
----
-                title: "georgiancodeclub.github.io"
-                tags: [College club site]
-                externalUrl: "https://georgiancodeclub.github.io"
-                date: 9991-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:28005ec54459f490d399b87195098fbd686ffe89e57f7f84e77239e0f167d3b4
+size 472

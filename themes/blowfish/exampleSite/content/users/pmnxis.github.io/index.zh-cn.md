@@ -1,14 +1,3 @@
----
-                title: "pmnxis.github.io"
-                tags: [个人网站]
-                externalUrl: "https://pmnxis.github.io"
-                date: 9993-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:04adcb46b99be1ff4e607ca2f421a8dc873df973a84d13506a4e1c97b14b27b1
+size 448

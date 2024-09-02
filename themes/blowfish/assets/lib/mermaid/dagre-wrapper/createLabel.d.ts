@@ -1,9 +1,3 @@
-export default createLabel;
-/**
- * @param _vertexText
- * @param style
- * @param isTitle
- * @param isNode
- * @deprecated svg-util/createText instead
- */
-declare function createLabel(_vertexText: any, style: any, isTitle: any, isNode: any): SVGTextElement | SVGForeignObjectElement;
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1df94b89a9c9f8c6d44a3c99417c8fc29eea6aff5d9570ce23cc586af7de40
+size 281

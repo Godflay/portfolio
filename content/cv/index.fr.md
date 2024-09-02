@@ -1,8 +1,3 @@
----
-title: "CV"
-date: 2024-08-22
-draft: false
-type: "cv"
---- 
-# Connect with me!
-wish to know more? you can download my CV [here](/cv/CV.pdf)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d37481f2c43278eb465c9e5ce52a5edd9b324312082bff157ce04decdb4b2819
+size 141

@@ -1,8 +1,3 @@
-import { S as Selection, o as root, q as array } from "./config-b4fa35bb.js";
-function selectAll(selector) {
-  return typeof selector === "string" ? new Selection([document.querySelectorAll(selector)], [document.documentElement]) : new Selection([array(selector)], root);
-}
-export {
-  selectAll as s
-};
-//# sourceMappingURL=selectAll-b147441f.js.map
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e1507256e8ff51205e336d4bc629105cb46c373e3899a3754761dd6333fe1be
+size 350

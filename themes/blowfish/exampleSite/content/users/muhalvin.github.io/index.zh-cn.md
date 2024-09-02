@@ -1,14 +1,3 @@
----
-                title: "muhalvin.github.io"
-                tags: [个人网站]
-                externalUrl: "https://muhalvin.github.io/"
-                date: 9973-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3055d4ac0f84b7e14a751a5b4c9ec0ab97e0474f53db84736cdc32165f617236
+size 453

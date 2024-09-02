@@ -1,14 +1,3 @@
----
-                title: "Adam Madej - Gameplay Animator"
-                tags: [Sito portfolio, Blog, Sito personale]
-                externalUrl: "http://www.adammadej.com/"
-                date: 9923-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0def1cf0264b787b91d4f07700406be383d001563340305d3444519837cfcf
+size 487

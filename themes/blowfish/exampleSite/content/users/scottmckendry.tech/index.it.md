@@ -1,14 +1,3 @@
----
-                title: "scottmckendry.tech"
-                tags: [Sito personale]
-                externalUrl: "https://scottmckendry.tech"
-                date: 9948-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c13bc811cb0ff87928446b344a5dfb055d0633873261bf1d2c2d77136b13c30
+size 454

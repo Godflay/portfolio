@@ -1,19 +1,3 @@
----
-title: "Recipes"
-description: "Recipes, guides, and tutorials for Blowfish"
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
----
-
-{{< lead >}}
-Recipes, guides, and tutorials for Blowfish
-{{< /lead >}}
-
-**Blowfish user?** To add your guide to this list, [check the template](/guides/template/).
-
-This section contains guides for a variety of scenarios on how to configure your theme. If you're new, check out the [Installation]({{< ref "docs/installation" >}}) guide to begin or visit the [Samples]({{< ref "samples" >}}) section to see what Blowfish can do.
-
----
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e40739055d02eea6c0b69c46f35378882b9a469b551ea2d902cc449dd04844b
+size 591

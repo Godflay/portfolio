@@ -1,14 +1,3 @@
----
-                title: "blog.enmanuelmoreira.com"
-                tags: [個人サイト]
-                externalUrl: "https://blog.enmanuelmoreira.com"
-                date: 9961-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4837b22350216fdbc14edc398feb85fbb315882bfdb9e59ffd664bfcb88d8cb
+size 467

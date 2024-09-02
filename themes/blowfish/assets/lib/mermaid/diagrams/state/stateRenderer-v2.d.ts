@@ -1,20 +1,3 @@
-/**
- * Create a standard string for the dom ID of an item.
- * If a type is given, insert that before the counter, preceded by the type spacer
- *
- * @param itemId
- * @param counter
- * @param {string | null} type
- * @param typeSpacer
- * @returns {string}
- */
-export function stateDomId(itemId?: string, counter?: number, type?: string | null, typeSpacer?: string): string;
-export function setConf(cnf: any): void;
-export function getClasses(text: string, diagramObj: any): Record<string, import('../../diagram-api/types.js').DiagramStyleClassDef>;
-export function draw(text: any, id: any, _version: any, diag: any): Promise<void>;
-declare namespace _default {
-    export { setConf };
-    export { getClasses };
-    export { draw };
-}
-export default _default;
+version https://git-lfs.github.com/spec/v1
+oid sha256:088ae87070cb1662312b14eabbfa2c5958efd90eee056520e58d1093b69631ed
+size 757

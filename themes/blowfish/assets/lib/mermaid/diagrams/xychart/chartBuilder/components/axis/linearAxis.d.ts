@@ -1,11 +1,3 @@
-import type { TextDimensionCalculator } from '../../textDimensionCalculator.js';
-import { BaseAxis } from './baseAxis.js';
-import type { XYChartAxisThemeConfig, XYChartAxisConfig } from '../../interfaces.js';
-export declare class LinearAxis extends BaseAxis {
-    private scale;
-    private domain;
-    constructor(axisConfig: XYChartAxisConfig, axisThemeConfig: XYChartAxisThemeConfig, domain: [number, number], title: string, textDimensionCalculator: TextDimensionCalculator);
-    getTickValues(): (string | number)[];
-    recalculateScale(): void;
-    getScaleValue(value: number): number;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee7df597da95d2ed7fce8aa6cb7cb7e5d7a75283a60a16ff4840ad19b67a531
+size 595

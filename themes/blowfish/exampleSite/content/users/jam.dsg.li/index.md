@@ -1,13 +1,3 @@
----
-                title: "jam.dsg.li"
-                tags: [Organization site]
-                externalUrl: "https://jam.dsg.li"
-                date: 9983-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:0038437ce2dc74eba7409de996211214c9b1d4134c503cb9362a2f0b5df87df5
+size 440

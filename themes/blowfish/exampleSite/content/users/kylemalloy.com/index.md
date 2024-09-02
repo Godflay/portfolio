@@ -1,13 +1,3 @@
----
-                title: "kylemalloy.com"
-                tags: [Personal site]
-                externalUrl: "https://kylemalloy.com"
-                date: 9943-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:784a121e6657553c265d8f91bd8e57a89453c89899f81b92c7f4ffe7612e8d47
+size 444

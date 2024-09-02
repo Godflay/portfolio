@@ -1,7 +1,3 @@
----
-title: 高度なタグ
----
-
-こちらは高度なタグです。 Blowfish の他のページの様に、個々の分類条項にカスタムコンテンツの追加やそれを条項リストの一番上に表示することが可能です。:rocket:
-
-タイトルや説明など SEO や他の目的に利用するためのHugo のメタデータを定義するためにこれらのコンテンツページも利用可能です。
+version https://git-lfs.github.com/spec/v1
+oid sha256:17eed49124637bb673a4aceb6a3c2ed24d6fe33ff41d30e15bf5ea4ff4539165
+size 435

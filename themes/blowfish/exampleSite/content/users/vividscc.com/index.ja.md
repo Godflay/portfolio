@@ -1,14 +1,3 @@
----
-                title: "vividscc.com"
-                tags: [事業所]
-                externalUrl: "https://vividscc.com/"
-                date: 9974-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d868fe4afa13acedf37ea07ba281d1b1dbd76be584566866a01e4ce70e8ef85
+size 438

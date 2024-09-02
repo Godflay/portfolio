@@ -1,14 +1,3 @@
----
-                title: "adir1.com"
-                tags: [个人网站]
-                externalUrl: "https://adir1.com/"
-                date: 9978-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a686e3e2592e4be7a4bf6d590bde3c9c137d6c4332b2aa8412dddbafeff794c
+size 435

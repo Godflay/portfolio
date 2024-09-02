@@ -1,13 +1,3 @@
----
-                title: "niklas-hartmann-dev.de"
-                tags: [Personal site]
-                externalUrl: "https://niklas-hartmann-dev.de/"
-                date: 9977-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
+version https://git-lfs.github.com/spec/v1
+oid sha256:35c6ec9fde6c795603e1b043c76ede2212185785a3cb1fe85435b834255f7ae9
+size 461

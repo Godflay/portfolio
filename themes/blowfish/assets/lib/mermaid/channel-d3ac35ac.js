@@ -1,8 +1,3 @@
-import { aI as _, aJ as Color } from "./mermaid-c5809711.js";
-const channel = (color, channel2) => {
-  return _.lang.round(Color.parse(color)[channel2]);
-};
-const channel$1 = channel;
-export {
-  channel$1 as c
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:c648f963ce2dce431f4bbd905db0920a38fd58c59e190efdb95953c4dadacdf3
+size 213

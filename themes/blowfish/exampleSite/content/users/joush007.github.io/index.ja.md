@@ -1,14 +1,3 @@
----
-                title: "joush007.github.io"
-                tags: [個人サイト]
-                externalUrl: "https://joush007.github.io"
-                date: 9942-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf1fe56c105fa5642d35491e504a6b41c5baff3ef0014f96e25e078fba7bcca
+size 455

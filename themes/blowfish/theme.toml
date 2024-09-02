@@ -1,21 +1,3 @@
-# Blowfish theme for Hugo
-
-name = "Blowfish"
-license = "MIT"
-licenselink = "https://github.com/nunocoracao/blowfish/blob/main/LICENSE"
-description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-
-homepage = "https://github.com/nunocoracao/blowfish/"
-demosite = "https://blowfish.page/"
-
-tags = ["blog", "minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
-features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
-
-[author]
-  name = "Nuno Coracao"
-  homepage = "https://nunocoracao.com/"
-
-[original]
-  author = "James Panther"
-  homepage = "https://jamespanther.com/"
-  repo = "https://github.com/jpanther/congo"
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb82abacce6e7a9013d34e4ddf8a8c5d5443a5b3851d9100f9bea055e272c3d4
+size 679

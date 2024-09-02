@@ -1,14 +1,3 @@
----
-                title: "v-y-s.com"
-                tags: [Sito personale]
-                externalUrl: "https://v-y-s.com/"
-                date: 9940-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3f5b5433007b903de16a366019fae4eabec3b034be87ce5c796018a25f6003b
+size 437

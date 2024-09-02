@@ -1,12 +1,3 @@
-{{ $strAnchor := urlize .Anchor }}
-{{ $replacedAnchor := replaceRE "%25" "" $strAnchor }}
-<h{{ .Level }} class="relative group">{{ .Text | safeHTML }} 
-    <div id="{{ .Anchor | safeURL | urlize }}" class="anchor"></div>
-    {{ if.Page.Params.showHeadingAnchors | default (.Page.Site.Params.article.showHeadingAnchors | default true) }}
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#{{ $replacedAnchor | safeURL }}" aria-label="{{ i18n "article.anchor_label" }}">#</a>
-    </span>        
-    {{ end }}
-</h{{ .Level }}>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7b3e3795f2539c47f6b051508588661f25ad6b7415ab15b9ef4b00f07d4e0f3
+size 756

@@ -1,5 +1,3 @@
-export interface TreeData {
-    parentById: Record<string, string>;
-    childrenById: Record<string, string[]>;
-}
-export declare const findCommonAncestor: (id1: string, id2: string, treeData: TreeData) => string;
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ea09638c3af8e6ebcb3da406eeb93280823bd38ce4693588c5469205ff48cfd
+size 213

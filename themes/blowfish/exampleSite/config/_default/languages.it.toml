@@ -1,22 +1,3 @@
-languageCode = "it"
-languageName = "Italiano"
-weight = 2
-title = "Blowfish"
-
-[params]
-  displayName = "Italiano"
-  isoCode = "it"
-  rtl = false
-  dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "Un potente, leggero tema per Hugo."
-
-[author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "Un potente, leggero tema per Hugo."
-  bio = "Un potente, leggero tema per Hugo."
-  links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
-  ]
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ae562d0583de36f8673aab360d19f0d1f8b1db01668b0b3ec931d7d1a0eabf
+size 560

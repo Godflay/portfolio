@@ -1,16 +1,3 @@
-{{ if isset site.Params.umamiAnalytics "domain" }}
-<script data-id="umami-script" async src="https://{{ site.Params.umamiAnalytics.domain }}/script.js" data-website-id="{{ site.Params.umamiAnalytics.websiteid }}">
-</script>
-{{ else }}
-<script data-id="umami-script" async src="https://analytics.umami.is/script.js" data-website-id="{{ site.Params.umamiAnalytics.websiteid }}">
-</script>
-{{ end }}
-
-<script type="text/javascript">
-    document.querySelector('script[data-id="umami-script"]').addEventListener('load', function () {
-        const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
-        let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
-        let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
-        umami.track(type + ':' + title, {'url': url});
-    });
-</script>
+version https://git-lfs.github.com/spec/v1
+oid sha256:34a1a2b865fbec4dcf3b5bf9b80f1412c94e2a330973c4e89f6c1123012fd60e
+size 910

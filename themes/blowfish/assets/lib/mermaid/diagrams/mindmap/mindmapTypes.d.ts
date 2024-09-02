@@ -1,20 +1,3 @@
-import type { RequiredDeep } from 'type-fest';
-import type mindmapDb from './mindmapDb.js';
-export interface MindmapNode {
-    id: number;
-    nodeId: string;
-    level: number;
-    descr: string;
-    type: number;
-    children: MindmapNode[];
-    width: number;
-    padding: number;
-    section?: number;
-    height?: number;
-    class?: string;
-    icon?: string;
-    x?: number;
-    y?: number;
-}
-export type FilledMindMapNode = RequiredDeep<MindmapNode>;
-export type MindmapDB = typeof mindmapDb;
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b0054883a19818fabe9afdb01a6226942ec01e837b6e2abcb0ac318a850dd6
+size 501

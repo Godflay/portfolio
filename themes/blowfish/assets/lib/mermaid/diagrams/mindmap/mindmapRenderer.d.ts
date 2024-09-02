@@ -1,21 +1,3 @@
-import type { DrawDefinition } from '../../diagram-api/types.js';
-declare module 'cytoscape' {
-    interface EdgeSingular {
-        _private: {
-            bodyBounds: unknown;
-            rscratch: {
-                startX: number;
-                startY: number;
-                midX: number;
-                midY: number;
-                endX: number;
-                endY: number;
-            };
-        };
-    }
-}
-export declare const draw: DrawDefinition;
-declare const _default: {
-    draw: DrawDefinition;
-};
-export default _default;
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e05dc9bc70d46c623c86b1939efefcf3ae685c05d6c738c4cc1f3844ebe928
+size 542

@@ -1,14 +1,3 @@
----
-                title: "rejowski.xyz"
-                tags: [Sito personale]
-                externalUrl: "https://rejowski.xyz/"
-                date: 9941-08-08
-                showDate: false
-                showAuthor: false
-                showReadingTime: false
-                showEdit: false
-                showLikes: false
-                showViews: false
-                layoutBackgroundHeaderSpace: false
-                ---
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0036437a0e6480ec1d87950170aa5e8b6f871d58113301348d5cdcdce203c795
+size 443

@@ -1,13 +1,3 @@
-declare namespace _default {
-    export { node };
-    export { circle };
-    export { ellipse };
-    export { polygon };
-    export { rect };
-}
-export default _default;
-import node from './intersect-node.js';
-import circle from './intersect-circle.js';
-import ellipse from './intersect-ellipse.js';
-import polygon from './intersect-polygon.js';
-import rect from './intersect-rect.js';
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa1d17ec797080fa587759bb23901acdb11db59df40ccefc2bf4f827a8e03ba1
+size 385
